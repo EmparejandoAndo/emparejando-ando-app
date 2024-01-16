@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-github-pages/buil/static/css/main.38542394.css",
-    "main.js": "/react-github-pages/buil/static/js/main.c59fd012.js",
-    "static/js/787.5bd3143c.chunk.js": "/react-github-pages/buil/static/js/787.5bd3143c.chunk.js",
-    "static/media/AppleColorEmoji.ttf": "/react-github-pages/buil/static/media/AppleColorEmoji.43c3d231b09d0c262d2e.ttf",
-    "index.html": "/react-github-pages/buil/index.html",
-    "main.38542394.css.map": "/react-github-pages/buil/static/css/main.38542394.css.map",
-    "main.c59fd012.js.map": "/react-github-pages/buil/static/js/main.c59fd012.js.map",
-    "787.5bd3143c.chunk.js.map": "/react-github-pages/buil/static/js/787.5bd3143c.chunk.js.map"
+    "main.css": "/emparejando-ando-app/build/static/css/main.e900677e.css",
+    "main.js": "/emparejando-ando-app/build/static/js/main.f31d65ed.js",
+    "static/js/787.5bd3143c.chunk.js": "/emparejando-ando-app/build/static/js/787.5bd3143c.chunk.js",
+    "static/media/AppleColorEmoji.ttf": "/emparejando-ando-app/build/static/media/AppleColorEmoji.43c3d231b09d0c262d2e.ttf",
+    "index.html": "/emparejando-ando-app/build/index.html",
+    "main.e900677e.css.map": "/emparejando-ando-app/build/static/css/main.e900677e.css.map",
+    "main.f31d65ed.js.map": "/emparejando-ando-app/build/static/js/main.f31d65ed.js.map",
+    "787.5bd3143c.chunk.js.map": "/emparejando-ando-app/build/static/js/787.5bd3143c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38542394.css",
-    "static/js/main.c59fd012.js"
+    "static/css/main.e900677e.css",
+    "static/js/main.f31d65ed.js"
   ]
 }
