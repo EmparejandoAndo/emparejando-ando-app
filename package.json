@@ -2,7 +2,7 @@
   "name": "emparejando-ando-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EmparejandoAndo.github.io/react-github-pages/buil",
+  "homepage": "https://EmparejandoAndo.github.io/react-github-pages/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
